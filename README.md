@@ -2,6 +2,12 @@
 
 Explainable Artificial Intelligence DEMO
 
+Pre-requirements:
+
+- installed shap
+- installed lime
+- installed interpret
+
 Under the DEMO 1 file we presend three of the most common python libraries fro Explainable AI (XAI). The libraries presented are the following:
 
 - SHAP (SHapley Additive exPlanations)
