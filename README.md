@@ -10,7 +10,7 @@ Pre-requirements (libraries):
 - pandas
 - sklearn
 
-Under the DEMO 1 file we presend three of the most common python libraries fro Explainable AI (XAI). The libraries presented are the following:
+Under the DEMO 1 jupyter notebook file we presend three of the most common python libraries fro Explainable AI (XAI). The libraries presented are the following:
 
 - SHAP (SHapley Additive exPlanations)
 - LIME (Local Interpretable Model-agnostic Explanations)
